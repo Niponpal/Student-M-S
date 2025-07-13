@@ -1,0 +1,122 @@
+﻿@model Student
+
+<h2 class="text-center mb-4">Create Student</h2>
+
+<div class="card shadow-sm p-4">
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-3 mb-3">
+                <label asp-for="Age" class="form-label"></label>
+                <input asp-for="Age" class="form-control" type="number" min="1" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-3 mb-3">
+                <label asp-for="Gender" class="form-label"></label>
+                <select asp-for="Gender" class="form-select">
+                    <option value="">-- Select Gender --</option>
+                    <option>Male</option>
+                    <option>Female</option>
+                    <option>Other</option>
+                </select>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label asp-for="Phone" class="form-label"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label asp-for="Address" class="form-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-3 mb-3">
+                <label asp-for="RollNumber" class="form-label"></label>
+                <input asp-for="RollNumber" class="form-control" />
+                <span asp-validation-for="RollNumber" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-3 mb-3">
+                <label asp-for="Class" class="form-label"></label>
+                <input asp-for="Class" class="form-control" />
+                <span asp-validation-for="Class" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label asp-for="ImeagesFeature" class="form-label"></label>
+                <input asp-for="ImeagesFeature" class="form-control" />
+                
+            </div>
+
+            <div class="col-md-6 mb-3 form-group mt-2">
+                <label class=" col-form-label"> Student Images Upload</label>
+                <div>
+                    <input type="file" class="form-control" id="featuredImageUpload" />
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="ImeagesUrl" class="form-label"></label>
+                <input asp-for="ImeagesUrl" class="form-control" id="featuredImageUrl" />
+                <span asp-validation-for="ImeagesUrl" class="text-danger" id="featuredImageUrl"></span>
+            </div>
+        </div>
+
+        <div class="d-flex justify-content-between">
+            <a asp-action="Index" class="btn btn-outline-secondary">Cancel</a>
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        // let editor = new FroalaEditor("#content");
+         let featureUploadElement = document.getElementById("featuredImageUpload");
+         let FeaturedImageUrlElement = document.getElementById("featuredImageUrl");
+
+          async function featureImageUpload(e){
+             console.log(e.target.files[0])
+             let data = new FormData();
+             data.append("file",e.target.files[0])
+             fetch("/api/images",{
+                 method:"POST",
+                 headers:{
+                     "Aceept":"*/*"
+                 },
+                 body:data
+             }).then(res=>res.json())
+             .then(result=>{
+                 console.log(result)
+               FeaturedImageUrlElement.value=result.link.result
+             })
+         }
+
+         featureUploadElement.addEventListener('change', featureImageUpload)
+
+    </script>
+}
