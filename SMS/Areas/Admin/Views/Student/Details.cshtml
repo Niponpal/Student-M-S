@@ -1,0 +1,74 @@
+﻿@model Student
+
+<h1 class="w-50 mx-auto bg-primary text-white p-3 m-5">Student Details </h1>
+
+
+<table class="table table-bordered w-50 mx-auto">
+    <tbody>
+        <tr>
+            <th scope="row">Id</th>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <th scope="row">Name</th>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <th scope="row">Age</th>
+            <td>@Model.Age</td>
+        </tr>
+        <tr>
+            <th scope="row">Gender</th>
+            <td>@Model.Gender</td>
+        </tr>
+        <tr>
+            <th scope="row">Email</th>
+            <td>@Model.Email</td>
+        </tr>
+        <tr>
+            <th scope="row">Phone</th>
+            <td>@Model.Phone</td>
+        </tr>
+        <tr>
+            <th scope="row">Address</th>
+            <td>@Model.Address</td>
+        </tr>
+        <tr>
+            <th scope="row">Roll Number</th>
+            <td>@Model.RollNumber</td>
+        </tr>
+        <tr>
+            <th scope="row">Class</th>
+            <td>@Model.Class</td>
+        </tr>
+        <tr>
+            <th scope="row">Description</th>
+            <td>@Model.Description</td>
+        </tr>
+        <tr>
+            <th scope="row">Image Feature</th>
+            <td>@Model.ImeagesFeature</td>
+        </tr>
+        <tr>
+            <th scope="row">Image URL</th>
+            <td>@Model.ImeagesUrl</td>
+        </tr>
+        <tr>
+            <th scope="row">Image</th>
+            <td class="text-center">
+                @if (!string.IsNullOrWhiteSpace(Model.ImeagesUrl))
+                {
+                    <img src="@Model.ImeagesUrl" alt="@Model.Name's Image" class="img-thumbnail" style="max-width: 250px;" />
+                }
+                else
+                {
+                    <span class="text-muted">No Image Available</span>
+                }
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="text-center mt-3">
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

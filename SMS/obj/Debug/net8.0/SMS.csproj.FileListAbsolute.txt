@@ -287,3 +287,4 @@ C:\Users\Np\Desktop\MVC\SMS\SMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.
 C:\Users\Np\Desktop\MVC\SMS\SMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Np\Desktop\MVC\SMS\SMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Np\Desktop\MVC\SMS\SMS\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Np\Desktop\MVC\SMS\SMS\obj\Debug\net8.0\SMS.sourcelink.json
