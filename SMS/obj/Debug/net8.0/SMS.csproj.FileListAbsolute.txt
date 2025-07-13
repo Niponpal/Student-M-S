@@ -288,3 +288,8 @@ C:\Users\Np\Desktop\MVC\SMS\SMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.
 C:\Users\Np\Desktop\MVC\SMS\SMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Np\Desktop\MVC\SMS\SMS\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Np\Desktop\MVC\SMS\SMS\obj\Debug\net8.0\SMS.sourcelink.json
+C:\Users\Np\Desktop\MVC\SMS\SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Np\Desktop\MVC\SMS\SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Np\Desktop\MVC\SMS\SMS\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Np\Desktop\MVC\SMS\SMS\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Np\Desktop\MVC\SMS\SMS\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

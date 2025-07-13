@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\areas\\admin\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\areas\\admin\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Migrations\\AuthDb\\20250713180547_Stu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SMS\\Migrations\\AuthDb\\20250713180547_Stu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\data\\authdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\data\\authdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\areas\\admin\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\areas\\admin\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\areas\\admin\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\areas\\admin\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|c:\\users\\np\\desktop\\mvc\\sms\\sms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE837BE-D667-43CF-B4F8-4CD31511AAC8}|SMS\\SMS.csproj|solutionrelative:sms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "SMS\\Areas\\Admin\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Views\\Student\\Index.cshtml*",
-              "RelativeToolTip": "SMS\\Areas\\Admin\\Views\\Student\\Index.cshtml*",
-              "ViewState": "AgIAAHQAAAAAAAAAAADwv4EAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-13T13:50:39.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Views\\Student\\Edit.cshtml",
-              "RelativeDocumentMoniker": "SMS\\Areas\\Admin\\Views\\Student\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Views\\Student\\Edit.cshtml",
-              "RelativeToolTip": "SMS\\Areas\\Admin\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAD4AAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-13T11:53:13.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "SMS\\Areas\\Admin\\Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "SMS\\Areas\\Admin\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAD4AAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-13T11:52:47.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SMS\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SMS\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABABAAAAAAAAAAAAAHYBAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-13T11:43:36.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "SMS\\Areas\\Admin\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "SMS\\Areas\\Admin\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Program.cs",
+              "RelativeDocumentMoniker": "SMS\\Program.cs",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Program.cs*",
+              "RelativeToolTip": "SMS\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T11:41:10.381Z",
+              "WhenOpened": "2025-07-13T18:09:10.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ImagesController.cs",
-              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Controllers\\ImagesController.cs",
-              "RelativeDocumentMoniker": "SMS\\Areas\\Admin\\Controllers\\ImagesController.cs",
-              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Areas\\Admin\\Controllers\\ImagesController.cs",
-              "RelativeToolTip": "SMS\\Areas\\Admin\\Controllers\\ImagesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\appsettings.json",
+              "RelativeDocumentMoniker": "SMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\appsettings.json*",
+              "RelativeToolTip": "SMS\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T18:08:04.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250713180547_Stu.cs",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Migrations\\AuthDb\\20250713180547_Stu.cs",
+              "RelativeDocumentMoniker": "SMS\\Migrations\\AuthDb\\20250713180547_Stu.cs",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Migrations\\AuthDb\\20250713180547_Stu.cs",
+              "RelativeToolTip": "SMS\\Migrations\\AuthDb\\20250713180547_Stu.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T11:40:35.393Z",
+              "WhenOpened": "2025-07-13T18:05:48.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Data\\AuthDbContext .cs",
+              "RelativeDocumentMoniker": "SMS\\Data\\AuthDbContext .cs",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Data\\AuthDbContext .cs",
+              "RelativeToolTip": "SMS\\Data\\AuthDbContext .cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAADAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:55:00.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "SMS\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "SMS\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:49:59.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SMS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Models\\User.cs",
+              "RelativeToolTip": "SMS\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:48:13.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "SMS\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "SMS\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:43:43.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SMS\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\SMS\\SMS\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "SMS\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:42:22.823Z",
               "EditorCaption": ""
             }
           ]
