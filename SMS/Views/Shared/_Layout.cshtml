@@ -1,6 +1,10 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
+    @using Microsoft.AspNetCore.Identity
+
+    @inject SignInManager<IdentityUser> signInManager
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - SMS</title>
@@ -28,6 +32,37 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Dashboard</a>
                         </li>
+                        
+
+                        <div class="d-flex align-items-center">
+
+						@if (signInManager.IsSignedIn(User))
+						{
+							<div class="me-3 text-primary">
+								@User?.Identity?.Name
+							</div>
+
+							<a class="btn me-3 bg-light text-dark"
+							   asp-area=""
+							   asp-controller="Account"
+							   asp-action="Logout">Logout</a>
+						}else{
+							<a class="btn me-3 bg-light text-dark"
+							   asp-area=""
+							   asp-controller="Account"
+							   asp-action="Login">Login</a>
+
+							<a class="btn me-3 bg-light text-dark"
+							   asp-area=""
+							   asp-controller="Account"
+							   asp-action="Register">
+								Register
+							</a>
+						}				
+
+					</div>
+
+
                     </ul>
                 </div>
             </div>
